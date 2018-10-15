@@ -2,4 +2,4 @@
 Application to manage transcations of a shopping store
 
 # Demo Link
-https://araalifarooq.github.io/shoppers_store_UI/loginpage.html
+https://araalifarooq.github.io/shoppers_store_UI/UI/loginpage.html
